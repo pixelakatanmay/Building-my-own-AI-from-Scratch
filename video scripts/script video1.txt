@@ -1,0 +1,254 @@
+# Building My Own AI From Scratch
+
+### Video 1: Introduction
+
+**[OPENING]**
+
+Have you ever wondered what actually happens inside an AI?
+
+We use AI almost every day.
+
+We ask ChatGPT questions.
+
+We use AI to generate images.
+
+We use it to write code.
+
+We use it for almost everything.
+
+But honestly...
+
+I started wondering something.
+
+**What if I actually built one myself?**
+
+Not just using an existing AI model.
+
+Not downloading a pretrained model.
+
+Not connecting to an API.
+
+But actually building my own AI from the ground up.
+
+And that's exactly what I'm going to try to do.
+
+---
+
+**[INTRODUCE THE PROJECT]**
+
+Hey everyone.
+
+I'm Tanmay.
+
+And this is the beginning of a project where I'm going to try to build my own AI from scratch.
+
+And when I say "from scratch"...
+
+I actually mean it.
+
+I'm starting from the fundamentals.
+
+I'll learn how the basic building blocks work.
+
+I'll write the code myself.
+
+I'll train the models myself.
+
+And I'll slowly build everything up step by step.
+
+---
+
+**[IMPORTANT DISCLAIMER]**
+
+But before we go any further...
+
+I want to make something very clear.
+
+I'm not trying to build the next ChatGPT.
+
+I'm not trying to compete with GPT, Claude, Gemini, or any other large AI model.
+
+And I'm definitely not expecting to create some massive AI that can answer everything.
+
+That's not the goal of this project.
+
+This is a **skill-development project**.
+
+The goal is to understand how AI actually works.
+
+Instead of only using AI...
+
+I want to understand what is happening underneath it.
+
+---
+
+**[WHY THIS PROJECT]**
+
+Because right now, we can use incredibly powerful AI systems with just a few words.
+
+But there's a huge amount of technology hiding behind that simple chat box.
+
+There are neural networks.
+
+There are weights and biases.
+
+There is training.
+
+There is mathematics.
+
+There is optimization.
+
+There is data.
+
+And there are many, many other things happening behind the scenes.
+
+And I want to understand those things.
+
+Not just theoretically.
+
+I want to actually build them.
+
+---
+
+**[THE JOURNEY]**
+
+So I'm going to start at the very beginning.
+
+I'm not going to assume that I already know everything.
+
+We're going to start with the fundamentals.
+
+Then we'll move into machine learning.
+
+Then neural networks.
+
+Then we'll learn how these networks actually train.
+
+We'll build increasingly complicated models.
+
+And eventually...
+
+we'll see how far we can take this project.
+
+The important part is that we're going to build it step by step.
+
+One concept at a time.
+
+One experiment at a time.
+
+One piece of code at a time.
+
+---
+
+**[WHAT TO EXPECT]**
+
+And I also want to be honest about something.
+
+This project is probably going to break.
+
+A lot.
+
+There will be bugs.
+
+There will be things I don't understand.
+
+There will probably be models that completely fail.
+
+I'll probably make some terrible decisions along the way.
+
+And that's actually part of the project.
+
+Because I don't want to pretend that building AI is easy.
+
+I want to document the actual process of learning it.
+
+The successes...
+
+The failures...
+
+And everything in between.
+
+---
+
+**[THE SERIES FORMAT]**
+
+I'm also going to structure this project as a series of lessons.
+
+Each lesson will focus on one major concept.
+
+And normally, one lesson will become one video.
+
+If a lesson becomes too long or complicated...
+
+I'll split it into multiple parts.
+
+For example...
+
+Lesson 5 Part 1.
+
+Then Lesson 5 Part 2.
+
+So the series will basically follow the same path that I'm taking while building the AI.
+
+---
+
+**[THE REAL GOAL]**
+
+And honestly...
+
+Even if the final AI isn't remotely as powerful as the models we use today...
+
+I'll still consider this project a success.
+
+Because the goal isn't to build the most powerful AI in the world.
+
+The goal is to understand how one actually works.
+
+I want to go from...
+
+"How does AI even work?"
+
+to...
+
+"Okay...
+
+I actually built this."
+
+---
+
+**[ENDING]**
+
+So...
+
+that's the project.
+
+I'm starting from the fundamentals.
+
+I'm going to learn.
+
+I'm going to build.
+
+I'm going to break things.
+
+I'm going to fix them.
+
+And hopefully...
+
+by the end of this journey...
+
+I'll have something that I can genuinely call my own AI.
+
+This is only the beginning.
+
+In the next video...
+
+we're starting with **Lesson 2**.
+
+And we're going all the way back to the basics.
+
+So if you want to see how this experiment turns out...
+
+stick around.
+
+Let's build an AI.
+
