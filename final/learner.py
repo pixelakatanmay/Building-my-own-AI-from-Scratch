@@ -1,26 +1,26 @@
 import random
 
-#traning data
-training_data=[
-(-3,0),
-(-2,0),
-(-1,0),
-(1,1),
-(2,1),
-(3,1),
+#training data
+training_data = [
+    (-3,0),
+    (-2,0),
+    (-1,0),
+    (1,1),
+    (2,1),
+    (3,1)
 ]
 
-#random starting values
+#random strating values
 weight= random.uniform(-1,1)
 bias= random.uniform(-1,1)
 
-learning_rate=0.1
+learning_rate= 0.1
 
 for epoch in range(100):
     total_error=0
 
     for x, correct_answer in training_data:
-        #make a prediction
+        #make prediction
         prediction = x*weight+bias
         #calculate errors
         error=correct_answer - prediction
@@ -34,8 +34,8 @@ for epoch in range(100):
             "Epoch: ",
             epoch,
             "Error: ",
-            round(total_error,4)
+            round(total_error, 4)
         )
 
-print("\nFinal weight: ",weight)
-print("Final bias: ",bias)
+print("\nFinal weight: ", weight)
+print("Final bias: ", bias)
